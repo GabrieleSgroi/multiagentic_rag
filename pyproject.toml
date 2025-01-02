@@ -19,7 +19,6 @@ dependencies = ["fastapi",
                 "langchain-community",
                 "langchain-huggingface",
                 "wikipedia",
-                "duckduckgo_search",
                 "faiss-cpu",
                 "pillow"]
 
